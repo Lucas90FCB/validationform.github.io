@@ -1,0 +1,88 @@
+.error {
+
+    border: 2px solid #ff4d4d;
+    background:  #ff6666;
+    background-image: url(img/validate.png);
+    border-radius: 5px 5px 5px 5px;
+}
+html {
+    box-sizing: border-box;
+}
+
+#contact_form {
+    width: 777px;
+
+    font-family: 'Ubuntu';
+
+    border-radius: 0px 5px 0px 5px;
+    background-color: #FFFF99;
+
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+form label {
+    display: block;
+    width: 200px;
+
+
+
+
+    padding: 10px;
+
+    font-size: 16px;
+}
+form select {
+    display: block;
+    width: 200px;
+
+
+    margin-left: 5px;
+
+    padding: 10px;
+
+    font-size: 16px;
+}
+form span {
+    display: block;
+    color: #ff6666;
+
+
+
+}
+
+form input {
+    display: block;
+    margin-left: 5px;
+
+}
+form .radio {
+    display: inline-block;
+    margin-left: 5px;
+
+}
+input {
+
+    text-align: center;
+    padding: 10px;
+
+    font-size: 15px;
+
+}
+select:hover {
+    background-color: #CCFFFF;
+    border-radius: 5px 5px 5px 5px;
+}
+input:hover {
+    background-color: #CCFFFF;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.boton {
+    
+    margin-top : 10px;
+    margin-left: 3px; 
+    align: center;
+display:block;
+}
